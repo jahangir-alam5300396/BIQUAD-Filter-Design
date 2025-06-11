@@ -9,11 +9,6 @@ This section presents simulations done in LTspice for various BIQUAD filter topo
 
 ### Band-Pass Filter Frequency Response
 
-This is the LTspice simulation output showing frequency responses of multiple filter types (Band-pass, Low-pass, High-pass, and Band-stop):
-
-![LTspice Band-Pass Response](../images/ltspice_bandpass_response.png)
-### Band-Pass Filter Simulation Output
-
 This LTspice simulation shows the frequency responses of different filter configurations including:
 
 - Band-Pass (V(bp))  
@@ -24,4 +19,5 @@ This LTspice simulation shows the frequency responses of different filter config
 The simulation was done using universal BIQUAD topology.
 
 ![LTspice Band-Pass Frequency Response](../images/ltspice_bandpass_response.png)
+
 
