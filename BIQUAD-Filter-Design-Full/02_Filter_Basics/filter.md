@@ -28,6 +28,3 @@ Different approximation methods shape the filter response:
 - **Elliptic**: Sharpest roll-off with ripple in both bands
 - **Bessel**: Best phase linearity
 
-### Visualization
-
-![Comparison of Filter Approximations](../images/filter_types.png)
