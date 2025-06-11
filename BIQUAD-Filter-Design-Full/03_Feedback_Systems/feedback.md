@@ -16,6 +16,3 @@ Feedback is essential in operational amplifier (Op-Amp) circuits.
 - **Current Amplifier (Shunt-Series)**
 - **Transconductance Amplifier (Series-Series)**
 
-### Visual Aid
-
-![Feedback Configuration Diagram](../images/feedback_config.png)
