@@ -9,6 +9,8 @@ Moving from simulation to real-world hardware requires careful component selecti
 - Place decoupling capacitors close to op-amps
 - Test first on a breadboard or ASLK Pro board
 
-### Example Schematic
+### LTspice Circuit Schematic
 
-![Circuit Schematic](../images/circuit_schematic.png)
+The following diagram shows the BIQUAD universal filter circuit simulated in LTspice using op-amps, resistors, and capacitors.
+
+![BIQUAD Filter Circuit Schematic](../images/circuit_schematic.png)
