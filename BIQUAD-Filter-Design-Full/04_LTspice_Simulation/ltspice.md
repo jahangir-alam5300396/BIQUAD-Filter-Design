@@ -7,7 +7,8 @@ This section presents simulations done in LTspice for various BIQUAD filter topo
 - Frequency response for LPF, HPF, BPF, BSF
 - Step response with Q=1 and Q=10
 
-### Graphs
+### Band-Pass Filter Frequency Response
 
-![LTspice Frequency Response Q=1](../images/ltspice_q1.png)
-![LTspice Frequency Response Q=10](../images/ltspice_q10.png)
+This is the LTspice simulation output showing frequency responses of multiple filter types (Band-pass, Low-pass, High-pass, and Band-stop):
+
+![LTspice Band-Pass Response](../images/ltspice_bandpass_response.png)
