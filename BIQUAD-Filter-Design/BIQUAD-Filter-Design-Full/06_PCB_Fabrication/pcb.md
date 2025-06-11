@@ -1,6 +1,6 @@
 # 06 – PCB Fabrication
 
-Our design was implemented on a 4-layer PCB for noise immunity and performance.
+This section includes the PCB design for the Analog BIQUAD Filter Demonstrator, created using KiCad and optimized for low-noise analog performance.
 
 ### Features
 
@@ -9,9 +9,7 @@ Our design was implemented on a 4-layer PCB for noise immunity and performance.
 - ESD protection with TVS diodes
 - KiCad used for layout
 
-# 06 – PCB Fabrication
 
-This section includes the PCB design for the Analog BIQUAD Filter Demonstrator, created using KiCad and optimized for low-noise analog performance.
 
 ---
 
