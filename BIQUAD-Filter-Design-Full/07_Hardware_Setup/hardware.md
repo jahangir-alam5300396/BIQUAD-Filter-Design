@@ -22,7 +22,8 @@ The image below shows the experimental setup:
 - Dual-channel DC power supply
 - Oscilloscope for real-time observation
 
-![Hardware Testbench](../images/hardware_test_setup.png.jpg)
+![Hardware Testbench](../images/hardware_test_setup.jpg)
+
 
 
 
