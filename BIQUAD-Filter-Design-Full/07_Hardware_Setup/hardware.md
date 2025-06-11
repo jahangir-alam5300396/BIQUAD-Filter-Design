@@ -24,6 +24,7 @@ The image below shows the experimental setup:
 
 ![Hardware Testbench](../images/hardware_test_setup.png)
 
+
 ---
 
 ### 📈 Frequency Response – Band-Pass Filter
