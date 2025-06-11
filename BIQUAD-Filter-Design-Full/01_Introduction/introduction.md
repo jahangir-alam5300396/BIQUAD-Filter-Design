@@ -1,6 +1,6 @@
 # 01 – Introduction
 
-In this project, we explore the design and implementation of a BIQUAD filter — a second-order active filter widely used in analog signal processing.
+In this project, I explore the design and implementation of a BIQUAD filter — a second-order active filter widely used in analog signal processing.
 
 ## Motivation
 
@@ -18,6 +18,4 @@ Active filters (using Op-Amps) offer key advantages:
 
 These properties make them suitable for audio processing, communication systems, and measurement instrumentation.
 
-### Visual Overview
 
-![OpAmp-based Active Filter](../images/intro_diagram.png)
