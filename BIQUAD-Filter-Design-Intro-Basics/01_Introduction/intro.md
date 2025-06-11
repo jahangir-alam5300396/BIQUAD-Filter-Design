@@ -18,6 +18,6 @@ Active filters (using Op-Amps) offer key advantages:
 
 These properties make them suitable for audio processing, communication systems, and measurement instrumentation.
 
-### Visual Overview
 
-![OpAmp-based Active Filter](../images/intro_diagram.png)
+
+
