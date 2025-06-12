@@ -15,7 +15,7 @@ This section includes the PCB design for the Analog BIQUAD Filter Demonstrator, 
 
 ---
 
-### 🧩 Full Schematic Diagram
+### Full Schematic Diagram
 
 The complete design includes:
 - Power splitter and regulator
@@ -26,7 +26,7 @@ The complete design includes:
 
 ---
 
-### 🛠️ 3D Render of Final PCB
+###  3D Render of Final PCB
 
 This 3D view shows the final version of the board with:
 - Clearly labeled filter outputs: HPF, BPF, BSF, LPF
