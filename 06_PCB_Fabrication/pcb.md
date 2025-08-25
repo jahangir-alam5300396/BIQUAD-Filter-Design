@@ -34,7 +34,7 @@ This 3D view shows the final version of the board with:
 - Op-Amps and passive components placed efficiently
 - Board identification and lab info
 
-![3D Rendered PCB](../images/pcb_render_3d.png)
+![3D Rendered PCB](../images/pcb__3d.png)
 
 ---
 
